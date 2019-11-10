@@ -1,0 +1,23 @@
+#pragma once
+#include<iostream>
+int main();
+int s1();
+int s2();
+int s3();
+int s4();
+int m1();
+int m2();
+int m3();
+int m4();
+int p1();
+int p2();
+int p3();
+int p4();
+int p16();
+int p17();
+int p18();
+int p19();
+int p40();
+int p37();
+int p38();
+int p39();
